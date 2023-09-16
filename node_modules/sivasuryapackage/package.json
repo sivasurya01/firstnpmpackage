@@ -1,0 +1,16 @@
+{
+  "name": "sivasuryapackage",
+  "version": "1.0.0",
+  "description": "console",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "hello",
+    "sivasurya",
+    "console"
+  ],
+  "author": "sivasurya",
+  "license": "ISC"
+}
